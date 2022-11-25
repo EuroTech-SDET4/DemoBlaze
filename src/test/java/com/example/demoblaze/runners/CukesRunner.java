@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "com/example/demoblaze/stepDefs",
         dryRun = false,
-        tags = "@slider"
+        tags = "@demoblaze"
 )
 public class CukesRunner {
 
